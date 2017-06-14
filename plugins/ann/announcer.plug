@@ -1,0 +1,12 @@
+[Core]
+name = announcer
+module = announcer
+
+[Documentation]
+description = Allow you to send messages to one or more channel
+
+[Python]
+version = 3
+
+[Errbot]
+

@@ -1,0 +1,12 @@
+[Core]
+name = pvgreet
+module = pvgreet
+
+[Documentation]
+description = Private Greet on user connect
+
+[Python]
+version = 3
+
+[Errbot]
+
